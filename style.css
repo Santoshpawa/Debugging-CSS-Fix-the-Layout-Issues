@@ -1,0 +1,22 @@
+
+
+.container{
+    
+    padding: 10px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background: lightblue;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    position:relative;
+}
+
+.text {
+    position: fixed;
+    left: 50%;
+    
+}
